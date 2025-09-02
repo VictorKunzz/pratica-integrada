@@ -50,7 +50,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           args: >
-            -Dsonar.organization=henriquedeoliveira101101-netizen
-            -Dsonar.projectKey=pratica-integrada
+            -Dsonar.organization=victorkunzz
+            -Dsonar.projectKey=VictorKunzz_pratica-integrada
             -Dsonar.projectBaseDir=.
 
